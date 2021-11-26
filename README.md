@@ -3,6 +3,12 @@
   <h1>Robotics-Playground-Matlab</h1>
 </div>
 
+- [ ] Requirements
+- [ ] Convert to GIF's
+- [ ] this will be the basic one and displays what all is covered here
+- [ ] make it public when you get hands on robotics playground enough
+
+
 <div>
   <img align=right width=300 src="https://in.mathworks.com/academia/courseware/robotics-playground/_jcr_content/mainParsys/column_0_copy_copy/2/columns_copy/1/image_0.adapt.1200.medium.png/1620309409409.png"/>
   <h2>How to Start?</h2>
@@ -33,7 +39,3 @@
   
 </div>
 
-- [ ] Requirements
-- [ ] Convert to GIF's
-- [ ] this will be the basic one and displays what all is covered here
-- [ ] make it public when you get hands on robotics playground enough
