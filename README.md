@@ -14,14 +14,19 @@
     <li>6 MATLAB start programs and solutions</li>
     <li>11 Simulink start models and solutions</li>
   </ul><br>
-  <p>Here, this repository deals with giving my own solutions to the tasks present in the courseware and highlighting the interesting things which you can do with the Robotics Playground on Matlab.</p>
+  <p>Here, this repository deals with giving my own solutions to the tasks present in the courseware and highlighting the interesting things which you can do with the Robotics Playground on Matlab.</p><br>
   
 </div>
   <h2>Some of the Solutions!</h2>
   
-  | Simulink Model | Output Video |
+  | <b>Simulink Model</b> | <b>Output Video</b> |
   |---|---|
-  | <img align=center width=500 src="https://github.com/Swarzinium-369/Robotics-Playground-Matlab/blob/main/img-vid/wall-tracking.png"/>  | sfsdf |
+  | <img align=center width=500 src="https://github.com/Swarzinium-369/Robotics-Playground-Matlab/blob/main/img-vid/wall-tracking.png"/>  | <img align=center width=500 src="https://github.com/Swarzinium-369/Robotics-Playground-Matlab/blob/main/img-vid/gif/1-wall%20tracking.gif"/> |
+  | <b>Maze solving using Stateflow</b> | <b>3 ultrasonic sensors present</b> | 
+  | <img align=center width=500 src="https://github.com/Swarzinium-369/Robotics-Playground-Matlab/blob/main/img-vid/Maze-robot-stateflow.png"/>  | <img align=center width=500 src="https://github.com/Swarzinium-369/Robotics-Playground-Matlab/blob/main/img-vid/gif/2-maze%20robot.gif"/> |
+  | <b>Obstacle Avoidance using Encoder</b> |  | 
+  | <img align=center width=500 src="https://github.com/Swarzinium-369/Robotics-Playground-Matlab/blob/main/img-vid/Autonomous%20nav%20via%20encoder.png"/>  | <img align=center width=500 src="https://github.com/Swarzinium-369/Robotics-Playground-Matlab/blob/main/img-vid/gif/3-autonomous%20nav.gif"/> |
+  
   
   
 <div>
