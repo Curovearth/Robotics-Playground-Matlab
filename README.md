@@ -31,7 +31,7 @@
   | <b>Maze solving using Stateflow</b> | <b>3 ultrasonic sensors present</b> | 
   | <img align=center width=500 src="https://github.com/Swarzinium-369/Robotics-Playground-Matlab/blob/main/img-vid/Maze-robot-stateflow.png"/>  | <img align=center width=500 src="https://github.com/Swarzinium-369/Robotics-Playground-Matlab/blob/main/img-vid/gif/2-maze%20robot.gif"/> |
   | <b>Obstacle Avoidance using Encoder</b> |  | 
-  | <img align=center width=500 src="https://github.com/Swarzinium-369/Robotics-Playground-Matlab/blob/main/img-vid/Autonomous%20nav%20via%20encoder.png"/>  | <img align=center width=500 src="https://github.com/Swarzinium-369/Robotics-Playground-Matlab/blob/main/img-vid/gif/3-autonomous%20nav.gif"/> |
+  
   
   
   
