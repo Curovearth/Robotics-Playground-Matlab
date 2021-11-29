@@ -32,10 +32,4 @@
   | <img align=center width=500 src="https://github.com/Swarzinium-369/Robotics-Playground-Matlab/blob/main/img-vid/Maze-robot-stateflow.png"/>  | <img align=center width=500 src="https://github.com/Swarzinium-369/Robotics-Playground-Matlab/blob/main/img-vid/gif/2-maze%20robot.gif"/> |
 
 
-  
-  
-  
-<div>
-  
-</div>
-
+ 
