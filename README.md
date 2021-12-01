@@ -3,15 +3,11 @@
   <h1>Robotics-Playground-Matlab</h1>
 </div>
 
-- [ ] Requirements
-- [ ] Convert to GIF's
-- [ ] this will be the basic one and displays what all is covered here
-- [ ] make it public when you get hands on robotics playground enough
 
 
 <div>
   <img align=right width=300 src="https://in.mathworks.com/academia/courseware/robotics-playground/_jcr_content/mainParsys/column_0_copy_copy/2/columns_copy/1/image_0.adapt.1200.medium.png/1620309409409.png"/>
-  <h2>How to Start?</h2>
+  <h3>How to Start?</h3>
   
   <p>In order to begin playing with virtual robotics make sure you head over to <a href="https://in.mathworks.com/academia/courseware/robotics-playground.html">Robotics Playground Courseware</a>.<br>The <b>Course Material includes</b> - </p>
   <ul>
@@ -22,8 +18,10 @@
   </ul><br>
   <p>Here, this repository deals with giving my own solutions to the tasks present in the courseware and highlighting the interesting things which you can do with the Robotics Playground on Matlab.</p><br>
   
+  -------------
+  
 </div>
-  <h2>Some of the Solutions!</h2>
+  <h3>Some of the Solutions!</h3>
   
   | <b>Simulink Model</b> | <b>Output Video</b> |
   |---|---|
